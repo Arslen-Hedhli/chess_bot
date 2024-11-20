@@ -6,13 +6,9 @@ This repository explores a data-driven approach to predict the likely outcome of
 
 ## 📸 Demo and Visuals
 
-*(Add visuals showcasing the project here. For example: charts, screenshots of the model in action, or any relevant graphics.)*
+- **Model Performance**
 
-- **Game State Representation**  
-  *(Placeholder for an image representing the game state.)*
-
-- **Model Performance**  
-  *(Placeholder for graphs or tables showing model accuracy and loss.)*
+- **Demo Video**
 
 ---
 
